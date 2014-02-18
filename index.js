@@ -9,7 +9,7 @@ function NgMinFilter (inputTree, options) {
   this.options = options || {}
 }
 
-NgMinFilter.prototype.extensions = ['ngmin']
+NgMinFilter.prototype.extensions = ['js']
 NgMinFilter.prototype.targetExtension = 'js'
 
 NgMinFilter.prototype.processString = function (string) {
