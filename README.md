@@ -1,6 +1,6 @@
 # broccoli-ng-min
 
-A ng-min filter for Broccoli.
+A [ng-min](https://github.com/btford/ngmin) filter for Broccoli.
 
 ## Installation
 
