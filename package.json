@@ -1,7 +1,7 @@
 {
   "name": "broccoli-ng-min",
   "description": "Angular ng-min filter for Broccoli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jake Swanson <jakswa@gmail.com>",
   "main": "index.js",
   "license": "MIT",
