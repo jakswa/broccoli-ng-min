@@ -18,7 +18,7 @@
     "ngmin"
   ],
   "dependencies": {
-    "broccoli-filter": "~0.0.1",
+    "broccoli-filter": "~0.1.6",
     "ngmin": "~0.4.1"
   }
 }
